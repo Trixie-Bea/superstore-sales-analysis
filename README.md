@@ -22,7 +22,7 @@ The objective of this analysis is to answer key business questions such as:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Python** – Data cleaning and exploratory analysis
 - **Pandas** – Data manipulation and analysis
@@ -33,7 +33,7 @@ The objective of this analysis is to answer key business questions such as:
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 The analysis uses the Superstore sales dataset containing approximately 10,000 sales records covering the period **2014–2017**.
 
@@ -58,7 +58,7 @@ Dataset source: Kaggle Superstore Dataset.
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 ### 1. Data Preparation — Python
 
@@ -131,7 +131,7 @@ Focuses on profitability drivers and opportunities:
 
 ---
 
-# 📈 Key Business Insights
+# Key Business Insights
 
 ## 1. Sales and profit increased significantly
 
@@ -203,7 +203,7 @@ This suggests potential opportunities for targeted growth within the Home Office
 
 ---
 
-# 💡 Business Recommendations
+#  Business Recommendations
 
 ### 1. Review high-discount policies
 
@@ -239,6 +239,12 @@ Explore targeted marketing and product strategies to increase Home Office sales 
 ### Performance Analysis
 
 <img width="1132" height="645" alt="Performance_Analysis" src="https://github.com/user-attachments/assets/b083d14c-bdb2-4ca1-ae34-d511381fed74" />
+
+#  Conclusion
+
+The analysis demonstrates strong overall sales and profit growth between 2014 and 2017, but also highlights significant differences in profitability across products, categories, discounts, customer segments and geographic markets.
+
+The most significant opportunities are improving Furniture profitability, controlling excessive discounting, reviewing loss-making products and expanding high-margin areas.
 
 
 
