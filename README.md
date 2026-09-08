@@ -125,7 +125,7 @@ Focuses on profitability drivers and opportunities:
 - Most Profitable Product
 - Most Profitable State
 - Average Product Margin
-- Dashboard Interaction <a href="https://github.com/Trixie-Bea/superstore-sales-analysis/blob/main/Executive_Overview.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/Trixie-Bea/superstore-sales-analysis/blob/main/Performance_Analysis.png">View Dashboard</a>
 
 
 
@@ -233,6 +233,13 @@ Explore targeted marketing and product strategies to increase Home Office sales 
 #  Dashboard Preview
 
 ### Executive Sales Overview
+
+<img width="1141" height="632" alt="Executive_Overview" src="https://github.com/user-attachments/assets/cc90520f-2ead-4dff-a0f9-6631339be288" />
+
+### Performance Analysis
+
+<img width="1132" height="645" alt="Performance_Analysis" src="https://github.com/user-attachments/assets/b083d14c-bdb2-4ca1-ae34-d511381fed74" />
+
 
 
 
