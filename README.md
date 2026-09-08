@@ -110,6 +110,7 @@ Provides a high-level view of:
 - Regional profitability
 - Sub-category profitability
 - Category performance
+- Dashboard Interaction <a href="https://github.com/Trixie-Bea/superstore-sales-analysis/blob/main/Executive_Overview.png">View Dashboard</a>
 
 #### Performance Analysis
 
@@ -124,6 +125,9 @@ Focuses on profitability drivers and opportunities:
 - Most Profitable Product
 - Most Profitable State
 - Average Product Margin
+- Dashboard Interaction <a href="https://github.com/Trixie-Bea/superstore-sales-analysis/blob/main/Executive_Overview.png">View Dashboard</a>
+
+
 
 ---
 
